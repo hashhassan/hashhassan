@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hassan 👋</h1>
+<h3 align="center">Software Engineering Student | Cloud & DevOps Enthusiast</h3>
 
-<!--
-**hashhassan/hashhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=BS+Software+Engineering+%40+BIIT+Rawalpindi;Cloud+%2F+DevOps+Engineering;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Terraform+(learning);Building+cloud-native+projects+one+phase+at+a+time" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 5th Semester BS Software Engineering student at **BIIT Rawalpindi** (Class Topper, 3.82 GPA)
+- ☁️ Currently interning at **Decode Labs** (Cloud Computing) and part of the **10Pearls Shine Internship Program** (.NET Fullstack track)
+- 🛠️ Building hands-on cloud projects — from serverless apps to containerized microservices on AWS
+- 📚 Documenting my entire cloud/DevOps learning journey in a structured Obsidian vault
+- 🎯 Targeting DevOps / Cloud Engineering roles in Islamabad/Rawalpindi
+- 💪 When I'm not coding, I'm probably at a home dumbbell workout
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+---
+
+### 🌱 Currently Building
+
+- **Link/Doc Directory API** — a containerized Express/PostgreSQL microservice, deploying to AWS ECS Fargate
+- Working through a structured roadmap: Linux → AWS Core → IAM/CLI → Networking/VPC → Terraform → CI/CD → Containers → Certification
+
+### 📌 Featured Projects
+
+- 🔗 [Link-directory-Api](https://github.com/hashhassan/Link-directory-Api) — Containerized Express/PostgreSQL microservice targeting ECS Fargate
+- 🖥️ [internship-tracker-api](https://github.com/hashhassan/internship-tracker-api) — 3-tier AWS app (ALB → ASG → RDS PostgreSQL)
+- 📷 [ascii-cam](https://github.com/hashhassan/ascii-cam) — Real-time webcam to ASCII art converter
+- ✂️ [url-shortener](https://github.com/hashhassan/url-shortener) — Dockerized URL shortener (Node.js/Express/MongoDB/Nginx) on EC2 with CI/CD
+- 🖨️ [QR-Based-Attendance-System](https://github.com/hashhassan/QR-Based-Attendance-System) — Desktop attendance system using QR codes (C#/.NET/SQL Server)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashhassan&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashhassan&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashhassan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://hassanadil.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:hassanadil7005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- Add your LinkedIn badge below once you paste your profile link -->
+  <a href="www.linkedin.com/in/hassan-adil-2a305837a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐ Currently deep in AWS + Docker + Terraform — always open to connecting with fellow cloud/DevOps folks!</i></p>
